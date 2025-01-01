@@ -1,3 +1,6 @@
+# Syed Umar Farooq
+https://github.com/S-U-King/umar.git
+
 # firstrepo
 Artificial Intelligence batch 2 repositories
 
